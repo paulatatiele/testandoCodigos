@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: #000000;
+    color: #f6f6f6;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
+}
+
+.destaque__titulo {
+    color: #22D4FD;
+}
+
+button {
+    background-color: #22D4FD;
+    border-radius: 8px;
+    text-decoration: none;
+}
